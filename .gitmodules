@@ -1,0 +1,3 @@
+[submodule "arco-admin"]
+	path = arco-admin
+	url = https://github.com/xiaokonglongya/arco-admin.git
